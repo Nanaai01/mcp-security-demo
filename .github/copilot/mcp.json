@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "audit-demo-mcp": {
+      "command": "python",
+      "args": ["server.py"],
+      "description": "Intentional MCP config for APIsec MCP audit scanning"
+    }
+  }
+}
